@@ -4,11 +4,11 @@ Deal all,
 This repository and Jutyper Notebook was created taking as a basis our previous classes during "Python for Sustainability". 
 In each section of my analysis you can find the details about how I processed the information. The notes assisted me mainly in understanding the question in itself and keeping track of the steps. 
 
-#Disclaimer
+**Disclaimer**
 All analysis were done before the 31st of January mid-night. Please take into account that I also included a bit of the project that was realized later on (exercise 6). 
 To be fair with everyone, this can also not be counted as it was mainly my personal exploratory attempt. 
 
-The questions answered were: 
+**The questions answered were**: 
 1) Data Analysis with focus on merging the dataframes, creating new columns, changing the name of some columns, removing the first one
 2) Advanced section suggested: Create one column for all the private or shared category
 3) Exploratory questions (almost all questions)
@@ -18,7 +18,7 @@ The questions answered were:
 7) Exercise 3b: What if we would like to compare superhosts to non-superhosts for each city?
 8) Exercise 6: To determine if there is a pattern between room_type and superhost status. 
 
-My overall observations: 
+**My overall observations**: 
 When analyzing the proportion of listings, London and Rome stand out with approximately 9,000 listings each, followed by Paris with around 6,000. A key pattern emerges when comparing listing activity between weekdays and weekends—four out of ten cities see more trips during the week, while the rest experience higher demand over the weekends. These weekend-favored cities also tend to have higher fares and, interestingly, a greater overall number of listings compared to those with a weekday predominance. This suggests that cities visited more frequently on weekends may be more popular travel destinations.
 
 Among all cities, Rome has the highest proportion of superhosts, with around 83% of its listings managed by these highly-rated hosts. Rome also leads in properties rented as entire homes or apartments.
@@ -33,4 +33,4 @@ Finally, comparing superhosts to non-superhosts, it appears that superhosts tend
 
 
 
-Credits: I would like to acknowledge that Chat Gpt was used mainly to solve specific erros in programming. This is specifically visible in the last project as I attempted to follow its advice to solve a missmatch between the length of the cities list etc. 
+**Credits**: I would like to acknowledge that Chat Gpt was used mainly to solve specific erros in programming. This is specifically visible in the last project as I attempted to follow its advice to solve a missmatch between the length of the cities list etc. 
