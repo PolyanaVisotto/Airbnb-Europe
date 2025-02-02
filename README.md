@@ -5,7 +5,7 @@ This repository and Jutyper Notebook was created taking as a basis our previous 
 In each section of my analysis you can find the details about how I processed the information. The notes assisted me mainly in understanding the question in itself and keeping track of the steps. 
 
 #Disclaimer
-All analysis were done before the 31st of January mid-night. Please take into account that I also included a bit of the project that was realized later on. 
+All analysis were done before the 31st of January mid-night. Please take into account that I also included a bit of the project that was realized later on (exercise 6). 
 To be fair with everyone, this can also not be counted as it was mainly my personal exploratory attempt. 
 
 The questions answered were: 
